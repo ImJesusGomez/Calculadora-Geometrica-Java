@@ -1,12 +1,14 @@
-Cálculo de la Hipotenusa:
+1. Cálculo de la Hipotenusa:
+Dado los dos catetos de un triángulo rectángulo, calcula la hipotenusa utilizando el teorema de Pitágoras. 
+Utiliza Math.sqrt y Math.pow.
 
-Dado los dos catetos de un triángulo rectángulo, calcula la hipotenusa utilizando el teorema de Pitágoras. Utiliza Math.sqrt y Math.pow.
-Cálculo del área de un círculo:
 
-Dado el radio de un círculo, calcula el área. Usa Math.PI y Math.pow.
-Distancia entre dos puntos en un plano 2D:
+2. Cálculo del volumen de un cilindro:
+Dado el radio de la base y la altura de un cilindro, calcula el volumen. Usa Math.PI y Math.pow.
 
+
+3. Distancia entre dos puntos en un plano 2D:
 Dado dos puntos (x1, y1) y (x2, y2), calcula la distancia entre ellos. Utiliza Math.sqrt y Math.pow.
-Máximo y Mínimo de dos números:
 
+4. Máximo y Mínimo de dos números:
 Dado dos números, determina cuál es el mayor y cuál es el menor. Utiliza Math.max y Math.min.
